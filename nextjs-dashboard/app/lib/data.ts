@@ -1,4 +1,3 @@
-// @ts-ignore
 import postgres from 'postgres';
 import {
   CustomerField,
